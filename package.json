@@ -1,0 +1,22 @@
+{
+  "name": "@pearba/sjs",
+  "version": "10.1.5-4",
+  "description": "It is a javascript app webserver.",
+  "main": "sjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pearba/sjs.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "pearba",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/pearba/sjs/issues"
+  },
+  "homepage": "https://github.com/pearba/sjs#readme"
+}

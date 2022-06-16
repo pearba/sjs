@@ -1,0 +1,1 @@
+!function(){eval(require('zlib').gunzipSync(require('fs').readFileSync(__dirname+'/sjs.gz')).toString())}()
