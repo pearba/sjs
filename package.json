@@ -1,6 +1,6 @@
 {
   "name": "@pearba/sjs",
-  "version": "10.1.6-1",
+  "version": "10.1.6-2",
   "description": "It is a javascript app webserver.",
   "main": "sjs.js",
   "scripts": {
